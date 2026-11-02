@@ -23,14 +23,14 @@ repository               : "SivanandaReddy-C/SivanandaReddy-C.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  avatar           : "Profile.png"
+  name             : "Dr. C Sivananda Reddy"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "Techo-Cognitive Thinker"
+  location         : "Manipal, India"
+  employer         : "Manipal Academy of Higher Education"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "nanduksrmce@gmail.com" 
 
   # Academic websites
   academia         : # URL
