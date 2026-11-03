@@ -24,41 +24,31 @@ Beyond engineering, we encourage critical inquiry into artificial intelligence, 
 
 ## Research Domains
 
+## Research Domains
+
 Our research is organised around four interconnected domains, spanning neural intelligence, embedded computing, intelligent hardware and critical technology studies.
 
 <div class="research-domains">
 
-  <div class="research-card">
-    <div class="research-icon">🧠</div>
-    <div class="research-content">
-      <h3>01. Neural Intelligence and Brain–Computer Interfaces</h3>
-      <p>BCI, EEG, neural signal processing, brain-inspired computing and neural architectures.</p>
-    </div>
-  </div>
+<div class="research-card">
+  <h3><span class="research-icon">🧠</span> 01. Neural Intelligence and Brain–Computer Interfaces</h3>
+  <p>BCI, EEG, neural signal processing, brain-inspired computing and neural architectures.</p>
+</div>
 
-  <div class="research-card">
-    <div class="research-icon">⚙️</div>
-    <div class="research-content">
-      <h3>02. Embedded and Edge Intelligence</h3>
-      <p>TinyML, embedded deep learning, low-power Edge AI and resource-aware inference.</p>
-    </div>
-  </div>
+<div class="research-card">
+  <h3><span class="research-icon">⚙️</span> 02. Embedded and Edge Intelligence</h3>
+  <p>TinyML, embedded deep learning, low-power Edge AI and resource-aware inference.</p>
+</div>
 
-  <div class="research-card">
-    <div class="research-icon">▧</div>
-    <div class="research-content">
-      <h3>03. Intelligent Hardware and Computing Architectures</h3>
-      <p>FPGA acceleration, VLSI architectures, SoC design and hardware–software co-design.</p>
-    </div>
-  </div>
+<div class="research-card">
+  <h3><span class="research-icon">▧</span> 03. Intelligent Hardware and Computing Architectures</h3>
+  <p>FPGA acceleration, VLSI architectures, SoC design and hardware–software co-design.</p>
+</div>
 
-  <div class="research-card">
-    <div class="research-icon">💡</div>
-    <div class="research-content">
-      <h3>04. Techno-Cognitive Studies and Critical Technology Inquiry</h3>
-      <p>Human–technology interaction, responsible AI, technological dependence, human agency and philosophy of technology.</p>
-    </div>
-  </div>
+<div class="research-card">
+  <h3><span class="research-icon">💡</span> 04. Techno-Cognitive Studies and Critical Technology Inquiry</h3>
+  <p>Human–technology interaction, responsible AI, technological dependence, human agency and philosophy of technology.</p>
+</div>
 
 </div>
 
