@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "MEDHACOREX LAB | Techno-Cognitive Systems and Intelligent Electronics"
+title: ""
 author_profile: true
 redirect_from: 
   - /about/
