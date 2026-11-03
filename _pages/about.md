@@ -8,11 +8,8 @@ redirect_from:
 ---
 
 # MEDHACOREX LAB
-
-### Techno-Cognitive Systems and Intelligent Electronics Laboratory
-
-**Engineering Intelligence. Questioning Technology.**
-
+### TECHNO-COGNITIVE SYSTEMS AND INTELLIGENT ELECTRONICS LABORATORY
+## Engineering Intelligence. Questioning Technology.
 Advancing intelligent electronic systems while critically exploring intelligence, cognition and the human–technology relationship.
 
 
