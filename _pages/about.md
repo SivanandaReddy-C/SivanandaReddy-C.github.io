@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-# MEDHACOREX LAB
+# COGNICOREX LAB
 ### TECHNO-COGNITIVE SYSTEMS AND INTELLIGENT ELECTRONICS LABORATORY
 ---
 Advancing intelligent electronic systems while critically exploring intelligence, cognition and the human–technology relationship.
