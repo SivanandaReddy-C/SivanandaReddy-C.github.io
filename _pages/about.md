@@ -9,7 +9,7 @@ redirect_from:
 
 # MEDHACOREX LAB
 ### TECHNO-COGNITIVE SYSTEMS AND INTELLIGENT ELECTRONICS LABORATORY
-## Engineering Intelligence. Questioning Technology.
+---
 Advancing intelligent electronic systems while critically exploring intelligence, cognition and the human–technology relationship.
 
 
@@ -21,8 +21,6 @@ Our research integrates neural engineering, Brain–Computer Interfaces (BCI), e
 
 Beyond engineering, we encourage critical inquiry into artificial intelligence, human agency, technological dependence and the philosophical implications of technological advancement.
 
-
-## Research Domains
 
 ## Research Domains
 
