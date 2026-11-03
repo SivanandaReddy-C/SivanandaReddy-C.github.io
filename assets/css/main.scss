@@ -56,6 +56,55 @@
     margin-bottom: 0.3em;
 }
 
+/* ==========================================
+   MEDHACOREX - Research Domain Cards
+   ========================================== */
+
+.research-domains {
+    display: flex;
+    flex-direction: column;
+    gap: 0;
+    margin-top: 1.5em;
+    border: 1px solid #444;
+    border-radius: 14px;
+    padding: 0 14px;
+}
+
+.research-card {
+    display: flex;
+    align-items: flex-start;
+    gap: 14px;
+    padding: 20px 0;
+    border-bottom: 1px solid rgba(128, 128, 128, 0.25);
+}
+
+.research-card:last-child {
+    border-bottom: none;
+}
+
+.research-icon {
+    font-size: 25px;
+    line-height: 1.4;
+    min-width: 28px;
+}
+
+.research-content {
+    flex: 1;
+    min-width: 0;
+}
+
+.research-content h3 {
+    margin: 0 0 5px 0;
+    font-size: 1.05em;
+    font-weight: 700;
+}
+
+.research-content p {
+    margin: 0;
+    font-size: 0.9em;
+    line-height: 1.55;
+}
+
 .page__content p {
     margin-top: 0.3em;
     margin-bottom: 0.6em;
