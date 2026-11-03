@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-# COGNICOREX LAB
+# COGNI-COREX LAB
 ### TECHNO-COGNITIVE SYSTEMS AND INTELLIGENT ELECTRONICS LABORATORY
 ---
 Advancing intelligent electronic systems while critically exploring intelligence, cognition and the human–technology relationship.
@@ -15,7 +15,7 @@ Advancing intelligent electronic systems while critically exploring intelligence
 
 ## About MEDHACOREX
 
-MEDHACOREX Lab is a research initiative focused on engineering intelligent computational and electronic systems while critically exploring intelligence, cognition and the relationship between humans and technology.
+COGNI-COREX Lab is a research initiative focused on engineering intelligent computational and electronic systems while critically exploring intelligence, cognition and the relationship between humans and technology.
 
 Our research integrates neural engineering, Brain–Computer Interfaces (BCI), embedded and edge intelligence, and intelligent hardware architectures. We investigate efficient computational models, resource-aware implementations and specialised hardware architectures for intelligent systems.
 
