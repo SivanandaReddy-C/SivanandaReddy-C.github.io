@@ -107,6 +107,16 @@
     margin-bottom: 0.6em;
 }
 
+/* Force removal of the outer research domains box */
+
+.page__content .research-domains {
+    border: none !important;
+    outline: none !important;
+    box-shadow: none !important;
+    background: transparent !important;
+    border-radius: 0 !important;
+    padding: 0 !important;
+}
 /* Spacing between homepage sections */
 
 .page__content h2 {
