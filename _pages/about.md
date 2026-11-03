@@ -13,6 +13,54 @@ redirect_from:
 Advancing intelligent electronic systems while critically exploring intelligence, cognition and the human–technology relationship.
 
 
+## About MEDHACOREX
+
+MEDHACOREX Lab is a research initiative focused on engineering intelligent computational and electronic systems while critically exploring intelligence, cognition and the relationship between humans and technology.
+
+Our research integrates neural engineering, Brain–Computer Interfaces (BCI), embedded and edge intelligence, and intelligent hardware architectures. We investigate efficient computational models, resource-aware implementations and specialised hardware architectures for intelligent systems.
+
+Beyond engineering, we encourage critical inquiry into artificial intelligence, human agency, technological dependence and the philosophical implications of technological advancement.
+
+
+## Research Domains
+
+Our research is organised around four interconnected domains, spanning neural intelligence, embedded computing, intelligent hardware and critical technology studies.
+
+<div class="research-domains">
+
+  <div class="research-card">
+    <div class="research-icon">🧠</div>
+    <div class="research-content">
+      <h3>01. Neural Intelligence and Brain–Computer Interfaces</h3>
+      <p>BCI, EEG, neural signal processing, brain-inspired computing and neural architectures.</p>
+    </div>
+  </div>
+
+  <div class="research-card">
+    <div class="research-icon">⚙️</div>
+    <div class="research-content">
+      <h3>02. Embedded and Edge Intelligence</h3>
+      <p>TinyML, embedded deep learning, low-power Edge AI and resource-aware inference.</p>
+    </div>
+  </div>
+
+  <div class="research-card">
+    <div class="research-icon">▧</div>
+    <div class="research-content">
+      <h3>03. Intelligent Hardware and Computing Architectures</h3>
+      <p>FPGA acceleration, VLSI architectures, SoC design and hardware–software co-design.</p>
+    </div>
+  </div>
+
+  <div class="research-card">
+    <div class="research-icon">💡</div>
+    <div class="research-content">
+      <h3>04. Techno-Cognitive Studies and Critical Technology Inquiry</h3>
+      <p>Human–technology interaction, responsible AI, technological dependence, human agency and philosophy of technology.</p>
+    </div>
+  </div>
+
+</div>
 
 
 This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
