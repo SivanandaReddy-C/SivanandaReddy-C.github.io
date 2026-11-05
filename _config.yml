@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "air" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "MEDHACOREX LAB <br><small style='font-size: 80%; font-weight: bold;'>Engineering Intelligence. Questioning Technology</small>"
+title                    : "COGNI-COREX <br><small style='font-size: 80%; font-weight: bold;'>Engineering Intelligence. Questioning Technology</small>"
 title_separator          : "-"
 name                     : &name "C Sivananda Reddy"
 description              : &description "Educator, Researcher"   # Update this with a general description of your site, this is the default if not overridden by a page
