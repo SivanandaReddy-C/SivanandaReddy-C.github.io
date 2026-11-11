@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-# COGNI-COREX LAB
+# COGNIX LAB
 ### COGNITIVE SYSTEMS AND INTELLIGENT ELECTRONICS LABORATORY
-Exploring the foundations of intelligence through neural systems, intelligent computing architectures and critical inquiry into the human–technology relationship.
+Exploring the brain | Engineering intelligent systems | Rethinking technology.
 
 
 ## About COGNI-COREX
