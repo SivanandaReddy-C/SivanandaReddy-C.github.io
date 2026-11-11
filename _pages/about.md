@@ -93,7 +93,7 @@ It requires investigating how intelligence emerges, how it operates, how it can 
 We value scientific curiosity, engineering rigour, interdisciplinary thinking and responsible technological development.
 
 Our guiding question is:
-### Just because we can, should we?
+### JUST BECAUSE WE CAN, SHOULD WE?
 
 This question represents our commitment to questioning technological assumptions, examining the consequences of innovation and keeping human values central to technological progress.
 
