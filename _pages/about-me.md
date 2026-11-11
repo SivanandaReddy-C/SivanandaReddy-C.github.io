@@ -1,13 +1,12 @@
 ---
 layout: single
-title: "About Me"
+title: ""
 permalink: /about-me/
 author_profile: true
 ---
 
 # Dr. C. Sivananda Reddy
-
-**Educator | Researcher | Embedded Systems Engineer | Techno-Cognitive Thinker**
+Educator | Researcher | Techno-Cognitive Thinker
 
 I am an educator, researcher and embedded systems engineer with a deep interest in understanding intelligence, engineering intelligent systems and critically examining the relationship between humans and technology.
 
