@@ -413,7 +413,7 @@
 
   body:has(.researcher-panel) #main {
     display: grid;
-    grid-template-columns: 18% minmax(0, 1fr) 19%;
+    grid-template-columns: 18% minmax(0, 1fr) 22%;
     column-gap: 2%;
     align-items: start;
   }
