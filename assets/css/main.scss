@@ -61,53 +61,64 @@
    ========================================== */
 
 
-.research-domains {
-    margin-top: 1.5em;
-    border: none;
-    padding: 0;
+
+/* ===== COGNIX LAB: Research Domain Alignment ===== */
+
+.page__content .research-domains {
+    display: block;
+    width: 100%;
 }
 
-.research-card {
-    display: grid;
-    grid-template-columns: 260px minmax(0, 1fr);
-    column-gap: 24px;
-    align-items: center;
+.page__content .research-domains .research-card {
+    display: grid !important;
+    grid-template-columns: 240px minmax(0, 1fr) !important;
+    column-gap: 30px !important;
+    align-items: start !important;
+    width: 100%;
+    box-sizing: border-box;
     padding: 22px 0;
     border-bottom: 1px solid rgba(128, 128, 128, 0.25);
 }
 
-.research-card:last-child {
-    border-bottom: none;
-}
-
-.research-card h3 {
-    display: flex;
+.page__content .research-domains .research-card h3 {
+    grid-column: 1 !important;
+    margin: 0 !important;
+    padding: 0 !important;
+    display: flex !important;
     align-items: flex-start;
     gap: 10px;
-    margin: 0;
     font-size: 1.05em;
-    font-weight: 700;
     line-height: 1.4;
 }
 
-.research-card .research-icon {
+.page__content .research-domains .research-card p {
+    grid-column: 2 !important;
+    margin: 0 !important;
+    padding: 0 !important;
+    font-size: 0.9em;
+    line-height: 1.6;
+}
+
+.page__content .research-domains .research-card:last-child {
+    border-bottom: none;
+}
+
+.page__content .research-domains .research-icon {
     flex-shrink: 0;
     font-size: 22px;
     line-height: 1.3;
 }
 
-.research-card p {
-    margin: 0;
-    font-size: 0.9em;
-    line-height: 1.6;
-}
-
-/* Responsive layout for mobile screens */
+/* Mobile layout */
 @media (max-width: 600px) {
-    .research-card {
-        grid-template-columns: 1fr;
-        row-gap: 10px;
-        align-items: start;
+    .page__content .research-domains .research-card {
+        grid-template-columns: 1fr !important;
+        row-gap: 10px !important;
+    }
+
+    .page__content .research-domains .research-card h3,
+    .page__content .research-domains .research-card p {
+        grid-column: 1 !important;
     }
 }
 
