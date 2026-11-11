@@ -75,24 +75,16 @@ layout: default
   
   </article>
 
-  {% if page.show_researcher_panel %}
-    <aside class="researcher-panel">
-      <h3>Researcher at a Glance</h3>
+  
+{% if page.show_researcher_panel %}
+  <aside class="researcher-panel">
+
+    {% if page.panel_type == "home" %}
+
+      <h3>Explore COGNIX</h3>
 
       <div class="panel-section">
-        <strong>Academic Qualification</strong>
-        <p>Ph.D. in Electronics Engineering</p>
-        <span>IIT Madras · 2024</span>
-      </div>
-
-      <div class="panel-section">
-        <strong>Professional Experience</strong>
-        <p>13+ Years</p>
-        <span>Teaching and academic experience</span>
-      </div>
-
-      <div class="panel-section">
-        <strong>Research Focus</strong>
+        <strong>Research Domains</strong>
         <ul>
           <li>Neural Intelligence and BCI</li>
           <li>Embedded and Edge AI</li>
@@ -102,7 +94,60 @@ layout: default
       </div>
 
       <div class="panel-section">
-        <strong>Laboratory</strong>
+        <strong>Research Activities</strong>
+        <ul>
+          <li>Brain–Computer Interfaces</li>
+          <li>TinyML and Edge AI</li>
+          <li>FPGA-based AI Systems</li>
+        </ul>
+      </div>
+
+      <div class="panel-section">
+        <strong>Research Philosophy</strong>
+        <p>Engineering Intelligence. Questioning Technology.</p>
+      </div>
+
+      <div class="panel-section">
+        <strong>Explore Further</strong>
+        <ul>
+          <li><a href="{{ '/about-me/' | relative_url }}">About Me</a></li>
+          <li><a href="{{ '/publications/' | relative_url }}">Publications</a></li>
+          <li><a href="https://github.com/SivanandaReddy-C">GitHub</a></li>
+        </ul>
+      </div>
+
+      <div class="panel-quote">
+        Just because we can, should we?
+      </div>
+
+    {% else %}
+
+      <h3>Researcher at a Glance</h3>
+
+      <div class="panel-section">
+        <strong>Education</strong>
+        <p>Ph.D. in Electronics Engineering</p>
+        <span>IIT Madras · 2024</span>
+      </div>
+
+      <div class="panel-section">
+        <strong>Experience</strong>
+        <p>13+ Years</p>
+        <span>Teaching and academic experience</span>
+      </div>
+
+      <div class="panel-section">
+        <strong>Research Interests</strong>
+        <ul>
+          <li>Neural Intelligence and BCI</li>
+          <li>Embedded and Edge AI</li>
+          <li>Intelligent Hardware</li>
+          <li>Cognitive Studies</li>
+        </ul>
+      </div>
+
+      <div class="panel-section">
+        <strong>Research Lab</strong>
         <p>COGNIX LAB</p>
         <span>Cognitive Systems and Intelligent Electronics</span>
       </div>
@@ -110,8 +155,12 @@ layout: default
       <div class="panel-quote">
         Just because we can, should we?
       </div>
-    </aside>
-  {% endif %}
+
+    {% endif %}
+
+  </aside>
+{% endif %}
+
 
   {% comment %}<!-- only show related on a post page when not disabled -->{% endcomment %}
 
