@@ -72,9 +72,49 @@ layout: default
     {% if site.comments.provider and page.comments %}
       {% include comments.html %}
     {% endif %}
+  
   </article>
 
+  {% if page.show_researcher_panel %}
+    <aside class="researcher-panel">
+      <h3>Researcher at a Glance</h3>
+
+      <div class="panel-section">
+        <strong>Academic Qualification</strong>
+        <p>Ph.D. in Electronics Engineering</p>
+        <span>IIT Madras · 2024</span>
+      </div>
+
+      <div class="panel-section">
+        <strong>Professional Experience</strong>
+        <p>13+ Years</p>
+        <span>Teaching and academic experience</span>
+      </div>
+
+      <div class="panel-section">
+        <strong>Research Focus</strong>
+        <ul>
+          <li>Neural Intelligence and BCI</li>
+          <li>Embedded and Edge AI</li>
+          <li>Intelligent Hardware</li>
+          <li>Cognitive Studies</li>
+        </ul>
+      </div>
+
+      <div class="panel-section">
+        <strong>Laboratory</strong>
+        <p>COGNIX LAB</p>
+        <span>Cognitive Systems and Intelligent Electronics</span>
+      </div>
+
+      <div class="panel-quote">
+        Just because we can, should we?
+      </div>
+    </aside>
+  {% endif %}
+
   {% comment %}<!-- only show related on a post page when not disabled -->{% endcomment %}
+
   {% if page.id and page.related and site.related_posts.size > 0 %}
     <div class="page__related">
       {% if site.data.ui-text[site.locale].related_label %}
