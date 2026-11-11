@@ -5,6 +5,8 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
+show_researcher_panel: true
+panel_type: home
 ---
 
 # COGNIX LAB
