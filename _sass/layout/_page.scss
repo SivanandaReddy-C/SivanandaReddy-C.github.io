@@ -432,6 +432,8 @@
 
   body:has(.researcher-panel) #main > .researcher-panel {
     display: block;
+    position: sticky;
+    top: 100px;
     grid-column: 3;
     width: 100%;
     box-sizing: border-box;
