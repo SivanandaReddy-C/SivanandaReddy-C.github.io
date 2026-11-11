@@ -441,8 +441,7 @@
     margin-top: 0;
     border: 1px solid var(--global-border-color);
     border-radius: 8px;
-    font-size: 0.9em;
-  }
+}
 }
 
 .researcher-panel h3 {
@@ -482,3 +481,24 @@
     display: none !important;
   }
 }
+
+
+/* Fix sticky behaviour for COGNIX researcher panel */
+
+@media (min-width: 1280px) {
+
+  body:has(.researcher-panel) #main {
+    overflow: visible !important;
+  }
+
+  body:has(.researcher-panel) #main > .researcher-panel {
+    position: -webkit-sticky !important;
+    position: sticky !important;
+    top: 100px !important;
+    align-self: start !important;
+    height: fit-content;
+    max-height: calc(100vh - 120px);
+    overflow-y: auto;
+  }
+}
+
