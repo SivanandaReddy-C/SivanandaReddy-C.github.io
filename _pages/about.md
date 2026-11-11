@@ -137,4 +137,4 @@ For research collaboration and academic enquiries, please get in touch through t
 
 
 ## COGNIX LAB
-**Engineering Intelligence. Questioning Technology.**
+### Engineering Intelligence. Questioning Technology.
