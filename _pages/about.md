@@ -9,18 +9,21 @@ redirect_from:
 
 # COGNIX LAB
 ### COGNITIVE SYSTEMS AND INTELLIGENT ELECTRONICS LABORATORY
-Exploring the brain | Engineering intelligent systems | Rethinking technology.
+##**Engineering Intelligence. Questioning Technology.**
+*Exploring the brain | Engineering intelligent systems | Rethinking technology.*
+
+COGNIX LAB is a research initiative dedicated to exploring intelligence across biological, computational and technological systems. We investigate the mysteries of the human brain, develop intelligent electronic systems, and critically examine the evolving relationship between humans and technology.
 
 
-## About COGNI-COREX
+## About COGNIX
 
-COGNI-COREX Lab is a research initiative dedicated to understanding, engineering and critically examining intelligence in biological, computational and technological systems.
+Intelligence remains one of the most fascinating and challenging subjects of scientific inquiry.
 
-The laboratory brings together research in neural engineering, Brain–Computer Interfaces (BCI), embedded and edge intelligence, and intelligent hardware architectures. It explores how intelligent computational models can be designed, optimised and implemented efficiently across resource-constrained electronic platforms.
+How does the human brain process information, learn, adapt and make decisions? Can computational systems replicate aspects of biological intelligence? How can intelligent algorithms be translated into efficient electronic systems? And, as technology advances, how do we preserve human agency and independent thinking?
 
-Beyond engineering, COGNI-COREX encourages interdisciplinary and philosophical inquiry into human cognition, artificial intelligence, technological dependence and the evolving relationship between humans and intelligent machines.
+COGNIX LAB brings together research in neural engineering, brain–computer interfaces, embedded artificial intelligence, intelligent hardware architectures and critical technology studies.
 
-Our research connects the understanding of intelligence with the engineering of intelligent systems and critical reflection on their role in society.
+Our approach connects understanding intelligence with engineering intelligent systems while encouraging deeper questions about the purpose, implications and limitations of technology.
 
 ## Research Domains
 
@@ -56,17 +59,16 @@ COGNI-COREX connects three complementary dimensions of research:
 
 ### Understand Intelligence
 
-Investigating biological cognition, neural systems and computational intelligence to explore how intelligence emerges, operates and can be modelled.
+Investigate the brain, neural processes, cognition and the mechanisms underlying intelligent behaviour.
 
 ### Engineer Intelligent Systems
 
-Designing and implementing efficient computational models, electronic architectures and hardware platforms for intelligent applications.
+Translate computational intelligence into practical, efficient and resource-aware electronic systems.
 
 ### Question Technology
 
-Critically examining the purpose, limitations and implications of technological advancement, particularly its influence on human cognition, autonomy and society.
+Examine the broader implications of technological advancement, including its influence on human thinking, autonomy and society.
 
-We believe that understanding intelligence, engineering intelligent systems and questioning technological progress should be interconnected pursuits.
 
 
 ## Featured Research
@@ -84,28 +86,28 @@ Selected research projects include:
 Research projects will be progressively documented with their objectives, methodologies, implementations and outcomes.
 
 ## Research Philosophy
+At COGNIX LAB, we believe that understanding intelligence requires more than developing computational models or building increasingly powerful machines.
 
-Intelligence is more than computational capability, and technological advancement is more than the ability to build increasingly powerful systems.
+It requires investigating how intelligence emerges, how it operates, how it can be engineered and how technology influences the human experience.
 
-At COGNI-COREX, we explore not only how intelligence can be understood, modelled and engineered, but also how intelligent technologies influence human cognition, autonomy and society.
+We value scientific curiosity, engineering rigour, interdisciplinary thinking and responsible technological development.
 
-We believe that technological innovation must be accompanied by critical thinking, responsible engineering and reflection on its broader implications.
-
+Our guiding question is:
 ### Just because we can, should we?
 
 This question represents our commitment to questioning technological assumptions, examining the consequences of innovation and keeping human values central to technological progress.
 
-## Selected Publications
+## Publications and Research Contributions
 
-Our research contributions address neural engineering, embedded intelligence, computational architectures and emerging technologies.
+We pursue research contributions in neural engineering, Brain–Computer Interfaces, embedded intelligence, intelligent computing architectures and related interdisciplinary areas.
 
-Explore our journal articles, conference publications and other academic contributions through the Publications section of this website.
+Explore our research publications, technical contributions and academic activities.
 
 [View All Publications](/publications/)
 
 ## Research Resources
 
-COGNI-COREX promotes practical experimentation, reproducible research and open-source knowledge sharing.
+COGNIX promotes practical experimentation, reproducible research and open-source knowledge sharing.
 
 Our research resources include:
 
@@ -122,14 +124,11 @@ Explore our research implementations and open-source contributions on GitHub.
 
 ## Research Collaboration
 
-COGNI-COREX welcomes academic collaborations, interdisciplinary research interactions and technical engagements in:
-
-- Neural engineering and Brain–Computer Interfaces
-- Embedded and Edge AI
-- Intelligent hardware and computing architectures
-- FPGA-based AI acceleration
-- Human cognition and artificial intelligence
-- Human–technology interaction
+COGNIX welcomes academic collaborations, interdisciplinary research interactions and technical engagements in:
+- Brain–Computer Interfaces and neural engineering.
+- Artificial intelligence and embedded intelligence.
+- FPGA, VLSI and intelligent hardware architectures.
+- Cognitive science and human–technology interaction.
 - Critical and philosophical studies of technology
 
 We are particularly interested in research that connects engineering, neuroscience, computational intelligence and philosophy to investigate emerging questions about intelligence and technology.
@@ -138,7 +137,7 @@ For research collaboration and academic enquiries, please get in touch through t
 
 ---
 
-## COGNI-COREX LAB
+## COGNIX LAB
 
 **Engineering Intelligence. Questioning Technology.**
 
