@@ -399,3 +399,84 @@
   font-size: $type-size-6;
   text-transform: uppercase;
 }
+
+
+/* ==========================================================================
+   COGNIX LAB - Researcher Information Panel
+   ========================================================================== */
+
+.researcher-panel {
+  display: none;
+}
+
+@media (min-width: 1280px) {
+
+  body:has(.researcher-panel) #main {
+    display: grid;
+    grid-template-columns: 18% minmax(0, 1fr) 19%;
+    column-gap: 2%;
+    align-items: start;
+  }
+
+  body:has(.researcher-panel) #main > .sidebar {
+    grid-column: 1;
+    width: 100%;
+  }
+
+  body:has(.researcher-panel) #main > .page {
+    grid-column: 2;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+  }
+
+  body:has(.researcher-panel) #main > .researcher-panel {
+    display: block;
+    grid-column: 3;
+    width: 100%;
+    box-sizing: border-box;
+    padding: 18px;
+    margin-top: 0;
+    border: 1px solid var(--global-border-color);
+    border-radius: 8px;
+    font-size: 0.9em;
+  }
+}
+
+.researcher-panel h3 {
+  margin-top: 0;
+  padding-bottom: 10px;
+  border-bottom: 1px solid var(--global-border-color);
+}
+
+.researcher-panel .panel-section {
+  margin: 18px 0;
+}
+
+.researcher-panel .panel-section p {
+  margin: 5px 0;
+}
+
+.researcher-panel .panel-section span {
+  color: var(--global-text-color-light);
+  font-size: 0.85em;
+}
+
+.researcher-panel .panel-section ul {
+  padding-left: 18px;
+  margin-bottom: 0;
+}
+
+.researcher-panel .panel-quote {
+  margin-top: 20px;
+  padding-top: 15px;
+  border-top: 1px solid var(--global-border-color);
+  font-weight: 600;
+  font-style: italic;
+}
+
+@media (max-width: 1279px) {
+  .researcher-panel {
+    display: none !important;
+  }
+}
