@@ -42,7 +42,7 @@ Our research is organised around four interconnected domains, spanning neural in
 </div>
 
 <div class="research-card">
-  <h3><span class="research-icon">▧</span> 03. Intelligent Hardware and Computing Architectures</h3>
+  <h3><span class="research-icon">💻</span> 03. Intelligent Hardware and Computing Architectures</h3>
   <p>Investigating FPGA-based AI acceleration, VLSI architectures, System-on-Chip design, hardware–software co-design and energy-efficient computing.</p>
 </div>
 
