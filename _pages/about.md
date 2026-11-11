@@ -9,7 +9,6 @@ redirect_from:
 
 # COGNIX LAB
 ### COGNITIVE SYSTEMS AND INTELLIGENT ELECTRONICS LABORATORY
-**Engineering Intelligence. Questioning Technology.**
 *Exploring the brain | Engineering intelligent systems | Rethinking technology.*
 
 COGNIX LAB is a research initiative dedicated to exploring intelligence across biological, computational and technological systems. We investigate the mysteries of the human brain, develop intelligent electronic systems, and critically examine the evolving relationship between humans and technology.
@@ -136,8 +135,5 @@ We are particularly interested in research that connects engineering, neuroscien
 For research collaboration and academic enquiries, please get in touch through the contact information provided on this website.
 
 
-## COGNIX LAB
-
+### COGNIX LAB
 **Engineering Intelligence. Questioning Technology.**
-
-*Understanding intelligence. Engineering intelligent systems. Rethinking technology.*
