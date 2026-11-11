@@ -1,13 +1,13 @@
 ---
-title: "Paper Title Number 1"
+title: "Nonlinear difference subspace method of motor imagery EEG classification in brain-computer interface"
 collection: publications
 category: manuscripts
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2009-10-01
-venue: 'Journal 1'
-slidesurl: 'https://academicpages.github.io/files/slides1.pdf'
-paperurl: 'https://academicpages.github.io/files/paper1.pdf'
+venue: 'Digital Signal Processing'
+slidesurl: ''
+paperurl: 'https://www.sciencedirect.com/science/article/pii/S1051200424003452'
 bibtexurl: 'https://academicpages.github.io/files/bibtex1.bib'
 citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
