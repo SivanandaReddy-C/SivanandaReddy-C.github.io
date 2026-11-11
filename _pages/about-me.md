@@ -3,6 +3,7 @@ layout: single
 title: ""
 permalink: /about-me/
 author_profile: true
+show_researcher_panel: true
 ---
 
 # Dr. C. Sivananda Reddy
