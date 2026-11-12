@@ -29,11 +29,11 @@ author:
   bio              : "Techo-Cognitive Thinker"
   location         : "Manipal, India"
   employer         : "Manipal Academy of Higher Education"
-  uri              : # URL
+  uri              : "https://www.manipal.edu/faculty/c-sivananda-reddy" 
   email            : "nanduksrmce@gmail.com" 
 
   # Academic websites
-  academia         : https://www.manipal.edu/faculty/c-sivananda-reddy
+  academia         : "https://manipal.academia.edu/CSivanandaReddy"
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com/citations?user=TLiE5XoAAAAJ&hl=en"
   inspire-hep      : # URL
