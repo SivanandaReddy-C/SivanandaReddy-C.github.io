@@ -2,7 +2,7 @@
 title: "Sparse representation-based motor imagery EEG classification towards asynchronous BCI systemsd"
 collection: publications
 category: manuscripts
-permalink: /publication/2024_IJBRA.md
+permalink: /publication/2024_IJBRA
 date: 2024-05-29
 venue: 'International Journal of Bioinformatics Research and Applications'
 paperurl: 'https://www.inderscienceonline.com/doi/abs/10.1504/IJBRA.2024.138711'
