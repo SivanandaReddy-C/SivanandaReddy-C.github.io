@@ -15,7 +15,7 @@ var addressPoints = [
     -122.4075201
   ],
   [
-    "Manifold Learning-Based Subspace Method for Motor Imagery EEG Classification in BrainComputer Interface<br />Mechatronics and Machine Vision in Practice (M2VIP) conference, Queenstown, New Zealand; Queenstown, New Zealand",
+    "Manifold Learning-Based Subspace Method for Motor Imagery EEG Classification in BrainComputer Interface<br />Mechatronics and Machine Vision in Practice (M2VIP) conference; Queenstown, New Zealand",
     -45.0321923,
     168.661
   ]
