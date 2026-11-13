@@ -5,9 +5,9 @@ var addressPoints = [
     -122.272863
   ],
   [
-    "Talk 2 on Relevant Topic in Your Field<br />London School of Testing; London, UK",
-    51.5074456,
-    -0.1277653
+    "Sensitivity of Threshold Value \u2018r\u2019in Approximate Entropy Based Brain-Computer Interface<br />7th International Conference on Computer Applications in Electrical Engineering-Recent Advances (CERA); IIT Roorkee, India",
+    29.8661656,
+    77.8957348
   ],
   [
     "Talk 1 on Relevant Topic in Your Field<br />UC San Francisco, Department of Testing; San Francisco, CA, USA",
