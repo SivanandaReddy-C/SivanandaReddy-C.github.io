@@ -10,9 +10,9 @@ var addressPoints = [
     77.8957348
   ],
   [
-    "Talk 1 on Relevant Topic in Your Field<br />UC San Francisco, Department of Testing; San Francisco, CA, USA",
-    37.7879363,
-    -122.4075201
+    "TinyML and Edge AI for Embedded Systems using STM32<br />Department of Advanced Communication Technology; Nitte University, Karnataka, India",
+    12.798843,
+    74.8848695
   ],
   [
     "Manifold Learning-Based Subspace Method for Motor Imagery EEG Classification in BrainComputer Interface<br />Mechatronics and Machine Vision in Practice (M2VIP) conference; Queenstown, New Zealand",
