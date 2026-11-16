@@ -27,27 +27,36 @@
     {% endif %}
     
 
+
 <h2 class="archive__item-title" itemprop="headline">
 
-  {% if post.brochure %}
-    <a href="{{ post.brochure | relative_url }}"
-       target="_blank"
-       rel="noopener noreferrer">
-       {{ title }}
+  {% if post.resource %}
+    {% assign resource_url = post.resource %}
+    {% unless resource_url contains '://' %}
+      {% assign resource_url = resource_url | relative_url %}
+    {% endunless %}
+    <a href="{{ resource_url }}" target="_blank" rel="noopener noreferrer">
+      {{ title }}
+    </a>
+
+  {% elsif post.brochure %}
+    <a href="{{ post.brochure | relative_url }}" target="_blank" rel="noopener noreferrer">
+      {{ title }}
     </a>
 
   {% elsif post.link %}
-    <a href="{{ post.link }}">{{ title }}</a>
-    <a href="{{ base_path }}{{ post.url }}" rel="permalink">
-      <i class="fa fa-link" aria-hidden="true" title="permalink"></i>
-      <span class="sr-only">Permalink</span>
+    <a href="{{ post.link }}" target="_blank" rel="noopener noreferrer">
+      {{ title }}
     </a>
 
   {% else %}
-    <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ title }}</a>
+    <a href="{{ base_path }}{{ post.url }}" rel="permalink">
+      {{ title }}
+    </a>
   {% endif %}
 
 </h2>
+
 
 
     {% if post.read_time %}
